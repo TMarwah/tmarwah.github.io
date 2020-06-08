@@ -282,7 +282,7 @@ footer {
 
 /* feature section */
 #feature {
-  background: #feb066;
+  background: transparent;
 }
 
 #feature .icon {
@@ -353,7 +353,7 @@ footer {
 
 /* footer section  */
 footer {
-  background: #111112;
+  background: transparent;
 }
 
 footer .copyright-text {
