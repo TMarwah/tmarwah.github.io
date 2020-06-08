@@ -50,7 +50,7 @@ p {
 }
 
 strong {
-  color: #f1c11a;
+  color: #feb066;
   font-weight: 700;
 }
 
@@ -255,7 +255,7 @@ footer {
 }
 
 #home .btn:hover {
-  background: #f1c11a;
+  background: #feb066;
   color: #ffffff;
   border-color: transparent;
 }
@@ -344,7 +344,7 @@ footer {
 }
 
 #contact input[type='submit']:hover {
-  background: #f1c11a;
+  background: #feb066;
 }
 
 
@@ -399,7 +399,7 @@ footer a:hover {
 }
 
 .modal-dialog .close {
-  color: #f1c11a;
+  color: #feb066;
   font-size: 40px;
   font-weight: 300;
   text-shadow: none;
@@ -442,7 +442,7 @@ footer a:hover {
   margin-top: 30px;
 }
 .modal-dialog form input[type="submit"]:hover {
-  background: #f1c11a;
+  background: #feb066;
   border-color: transparent;
   color: #ffffff;
 }
@@ -465,7 +465,7 @@ footer a:hover {
 }
 
 .go-top:hover {
-    background: #f1c11a;
+    background: #feb066;
     color: #ffffff;
 }
 
